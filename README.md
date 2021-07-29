@@ -1,1 +1,2 @@
 # Database-schema
+Install XAMMP 
